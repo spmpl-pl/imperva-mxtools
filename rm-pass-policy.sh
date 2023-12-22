@@ -4,7 +4,7 @@
 
 FILE1=/etc/login.defs
 FILE2=/etc/security/opasswd
-FILE2=/etc/pam.d/system-auth
+FILE3=/etc/pam.d/system-auth
 
 Help()
 {
