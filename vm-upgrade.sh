@@ -1,4 +1,7 @@
 #!/bin/bash
+
+## THE SCRIPT updates the the MX VMWARE tools to satisfy MX upgrade prerequisites. 
+
 FILE1=/usr/bin/vmware-toolbox-cmd
 FILE2=/usr/bin/vmware-toolbox-cmd.back
 
